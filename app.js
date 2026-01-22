@@ -1,2 +1,6 @@
 let {writewordcount} = require ("./q1.js");
 writewordcount();
+const stringUtils = require("./q2.js");
+console.log(stringUtils.capital("yuvika"));
+console.log(stringUtils.reverses("chaudhary"));
+console.log(stringUtils.vowel("yuvika"));
