@@ -1,0 +1,21 @@
+[
+  {
+    "id": "2026-01-28T09:08:22.841Z",
+    "name": "yuvika",
+    "email": "abc@gmail.com",
+    "password": "1910",
+    "todo": [
+      {
+        "id": "2026-01-28T09:44:54.672Z",
+        "time": "2026-01-28T09:44:54.672Z",
+        "task": "abc@gmail.com",
+        "status": false
+      },
+      {
+        "id": "2026-01-28T09:47:43.486Z",
+        "time": "2026-01-28T09:47:43.486Z",
+        "status": false
+      }
+    ]
+  }
+]
