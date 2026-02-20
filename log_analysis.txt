@@ -1,0 +1,42 @@
+============================================================
+LOG FILE ANALYSIS REPORT
+Generated: 9/2/2026, 11:06:01 pm
+Log File: application.log
+============================================================
+
+SUMMARY STATISTICS:
+----------------------------------------
+Total Lines Processed: 15
+Error Count: 4
+Warning Count: 3
+Info Count: 5
+Debug Count: 3
+
+DISTRIBUTION:
+----------------------------------------
+Errors: 26.67%
+Warnings: 20.00%
+Info: 33.33%
+Debug: 20.00%
+
+TIME RANGE:
+----------------------------------------
+First Entry: 2024-02-09 10:15:23
+Last Entry: 2024-02-09 10:22:00
+
+RECENT ERRORS (Last 10):
+----------------------------------------
+1. 2024-02-09 10:16:30 ERROR Failed to connect to external API: timeout
+2. 2024-02-09 10:18:00 ERROR Database query failed: connection lost
+3. 2024-02-09 10:20:00 ERROR Authentication failed for user: invalid_user
+4. 2024-02-09 10:22:00 ERROR File not found: /data/missing.txt
+
+RECENT WARNINGS (Last 10):
+----------------------------------------
+1. 2024-02-09 10:16:01 WARNING High memory usage detected: 85%
+2. 2024-02-09 10:18:30 WARNING Retrying database connection
+3. 2024-02-09 10:20:30 WARNING Rate limit exceeded for IP: 192.168.1.100
+
+============================================================
+END OF REPORT
+============================================================
